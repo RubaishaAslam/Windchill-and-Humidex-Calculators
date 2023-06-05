@@ -1,19 +1,15 @@
 # school
 CS 1026B – Assignment 1
+
 Windchill and Humidex Calculators
-Due: February 15, 2022 – 6:00 PM
-Updates:
-• Jan 25, added closing bracket to Humidex formula, added reference to programming
-standards in program requirements.
+
+
 Overview
+
 Write a program using user input, loops, and conditionals to calculate the windchill or humidex.
-Reminders
-• Your code must be done individually.
-• Your code will be graded in part by an automated system.
-• Your code may be compared to other submissions using computer software.
-• You can submit your code up to 48 hours late, with a deduction of 0.5% per hour (or part of an
-hour) that the assignment is late.
+
 Background
+
 There are two measurements used in Canada used to indicate the difference between the actual air
 temperature and what it “feels like”. In the summer, the humidex gives an indication of how humidity
 affects how hot it feels. In the winter, the windchill indicates how wind speed affects how cold it feels.
@@ -76,31 +72,11 @@ entered as the first character, the user should be prompted again.
 To help make sure your code behaves exactly as specified, a text file with all the prompts has been
 provided. You should copy these into your code to prevent typos in your submission. Follow the format
 precisely to avoid lost marks due to automated grading. Do not put any extra blank lines in your output.
-Code Requirements
-Your code must satisfy the following requirements in addition to producing correct output.
-1. Your code must be documented appropriately. Do not document every line of code, but major
-portions of your code must be commented.
-2. Your code must include a comment at the top of program that includes your name and
-describes the overall function of the program.
-3. Your code should use appropriate structures, such as user input, if statements, loops and
-formatted output code.
-4. You should review the programming standards document for information on commenting,
-variable naming and other issues.
-Submission Details
-• You must submit your code using the instructions on the owl site.
-• You must name your code Assign1.py.
-• You must match the prompts from the file provided to you (a1-prompts.txt).
-• You must follow the format of the output shown in the example below.
-Assignment Marking
-• Your code will be marked by an automated tool. The testing program assumes that
-o The code is saved as a file called Assign1.py
-o You are using a python3 version (recommended python3.9 or higher). If you use
-python2, you will likely lose marks.
-If your code has to be marked manually due to failure to follow these instructions, you will
-receive a deduction from your final mark.
-• Your code will be evaluated by the Teaching Assistants for the code requirements described
-above.
+
+
+
 Example Execution
+
 The following sample run of the program is provided for your reference only. It is not a complete
 example of all possible cases. You should design your own test cases to ensure your code is working.
 Enter a temperature between -50 and 50: -30
